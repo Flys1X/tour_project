@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.19">
+
+      
+  <!-- Picture Spot Style - Default Picture Spot Style -->
+
+  <style name="RectPictureDefaultPictureSpotStyle"
+         distorted="true"
+         visible="false"
+         scale="1.0" 
+         onhover="onhoverRectPictureDefaultPictureSpotStyle"
+         onout="onoutRectPictureDefaultPictureSpotStyle"
+         />
+  <action name="onhoverRectPictureDefaultPictureSpotStyle">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoutRectPictureDefaultPictureSpotStyle">
+    hideTooltip();
+    
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style -->
+  <style name="IconDefaultPointSpotStyle"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint0.png"
+         visible="false"
+
+         onhover="onhoverIconDefaultPointSpotStyle"
+         onout="onoutIconDefaultPointSpotStyle"
+
+
+         />
+
+  <action name="onhoverIconDefaultPointSpotStyle">
+    showtooltip('hotspot');
+  </action>
+
+
+  <action name="onoutIconDefaultPointSpotStyle">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+</krpano>
