@@ -47,4 +47,34 @@
 
 
 
+<!-- ********** -->
+<!-- Picture -->
+<!-- id : picture -->
+<!-- ********** -->
+
+  <layer name="picture"
+         keep="true"
+         url="%FIRSTXML%/graphics/picture/_108010751088_10911084107710851100109610771085108510991081-fotor-202502252248.png" 
+         align="topleft"
+         x="10"
+         y="10"
+         zorder="1"
+
+         handcursor="false"
+         enabled="false"
+
+         visible="false"
+         height="500"
+         width="500"
+         />
+
+  <events name="pictureevents" 
+    onTourStart="showpicture(false);"
+    hidetourcontrols="hidepicture();" 
+    showtourcontrols="showpicture(false);" 
+    keep="true" />
+
+  <action name="hidepicture">set(layer[picture].visible, false);</action>
+  <action name="showpicture">if(%1 == true,set(layer[picture].visible, true);,if(tour_displaycontrols,set(layer[picture].visible, true);,hidepicture();););</action>
+
 </krpano>
