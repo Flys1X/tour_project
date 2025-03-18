@@ -10,15 +10,21 @@
 
 
   <data name="en_pano38_title"><![CDATA[ГЛАВНЫЙ]]></data>
+  <data name="en_spotpoint63_tooltip"><![CDATA[Торнадо-Г]]></data>
+  <data name="en_spotpoint67_tooltip"><![CDATA[БМ ТИГР]]></data>
+  <data name="en_spotpoint91_tooltip"><![CDATA[БМП-2М]]></data>
 
 
   <data name="en_pano37_title"><![CDATA[БМП-2М_ИНФ]]></data>
+  <data name="en_spotpoint45_tooltip"><![CDATA[В ЦЕНТР]]></data>
 
 
   <data name="en_pano40_title"><![CDATA[ТИГР_ИНФ]]></data>
+  <data name="en_spotpoint65_tooltip"><![CDATA[В ЦЕНТР]]></data>
 
 
   <data name="en_pano108_title"><![CDATA[СВЕТ_ТОРНАДО]]></data>
+  <data name="en_spotpoint110_tooltip"><![CDATA[В ЦЕНТР]]></data>
 
 
 
