@@ -4,7 +4,7 @@
     
   <!-- Spot Style - Default Point Spot Style -->
   <style name="IconDefaultPointSpotStyle"
-         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint0.png"
+         url="%FIRSTXML%/spots/_107710881077109310861076_user_defaultpoint0.png"
          visible="false"
          onhover="onhoverIconDefaultPointSpotStyle"
          onout="onoutIconDefaultPointSpotStyle"
