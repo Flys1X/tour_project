@@ -9,10 +9,18 @@
 
 
 
-  <data name="en_pano37_title"><![CDATA[СВЕТ_ЦЕНТР]]></data>
+  <data name="en_pano57_title"><![CDATA[ЦЕНТР]]></data>
+  <data name="en_spotpoint63_tooltip"><![CDATA[БМ "ТИГР"]]></data>
 
 
-  <data name="en_pano38_title"><![CDATA[ЦЕНТР_НЕБО]]></data>
+  <data name="en_pano70_title"><![CDATA[ТИГР_ИНФ1]]></data>
+  <data name="en_spotpoint72_tooltip"><![CDATA[В ЦЕНТР]]></data>
+  <data name="en_spotpoint78_tooltip"><![CDATA[БМ "ТИГР" СБОКУ]]></data>
+
+
+  <data name="en_pano76_title"><![CDATA[ТИГР_БОК]]></data>
+  <data name="en_spotpoint79_tooltip"><![CDATA[БМ "ТИГР"]]></data>
+  <data name="en_spotpoint81_tooltip"><![CDATA[В ЦЕНТР]]></data>
 
 
 
@@ -51,6 +59,9 @@
   <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
   <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
   <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
 
 
 
