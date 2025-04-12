@@ -13,6 +13,8 @@
   <data name="en_spotpoint59_tooltip"><![CDATA[БМ "ТИГР"]]></data>
   <data name="en_spotpoint60_tooltip"><![CDATA[РСЗО "ТОРНАДО-Г"]]></data>
   <data name="en_spotpoint61_tooltip"><![CDATA[БМП-2М]]></data>
+  <data name="en_spotpoint135_tooltip"><![CDATA[БТР-82А]]></data>
+  <data name="en_spotpoint263_tooltip"><![CDATA[Урал-4320]]></data>
 
   <data name="en_panogroup45_title"><![CDATA[Group 45]]></data>
 
@@ -38,6 +40,24 @@
   <data name="en_pano52_title"><![CDATA[БМП-2М_ГОРИЗ]]></data>
   <data name="en_spotpoint78_tooltip"><![CDATA[В ЦЕНТР]]></data>
   <data name="en_pano53_title"><![CDATA[БМП-2М_ЗАД]]></data>
+
+  <data name="en_panogroup132_title"><![CDATA[Group 132]]></data>
+
+  <data name="en_pano129_title"><![CDATA[БТР-82_ЗАД]]></data>
+  <data name="en_spotpoint140_tooltip"><![CDATA[В УЕНТР]]></data>
+  <data name="en_pano130_title"><![CDATA[БТР-82А_ИНФ]]></data>
+  <data name="en_spotpoint254_tooltip"><![CDATA[В ЦЕНТР]]></data>
+  <data name="en_pano128_title"><![CDATA[БТР-82_БОК_ГОРИЗ]]></data>
+  <data name="en_spotpoint255_tooltip"><![CDATA[В ЦЕНТР]]></data>
+
+  <data name="en_panogroup260_title"><![CDATA[Group 260]]></data>
+
+  <data name="en_pano257_title"><![CDATA[УРАЛ_БОК]]></data>
+  <data name="en_spotpoint266_tooltip"><![CDATA[В ЦЕНТР]]></data>
+  <data name="en_pano259_title"><![CDATA[УРАЛ_ИНФ]]></data>
+  <data name="en_spotpoint264_tooltip"><![CDATA[В ЦЕНТР]]></data>
+  <data name="en_pano258_title"><![CDATA[УРАЛ_ЗАД]]></data>
+  <data name="en_spotpoint265_tooltip"><![CDATA[В ЦЕНТР]]></data>
 
 
 
@@ -76,6 +96,16 @@
   <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
   <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
   <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
 
 
 
