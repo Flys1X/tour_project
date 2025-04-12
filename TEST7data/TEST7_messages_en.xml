@@ -15,6 +15,7 @@
   <data name="en_spotpoint61_tooltip"><![CDATA[БМП-2М]]></data>
   <data name="en_spotpoint135_tooltip"><![CDATA[БТР-82А]]></data>
   <data name="en_spotpoint263_tooltip"><![CDATA[Урал-4320]]></data>
+  <data name="en_spotpoint277_tooltip"><![CDATA[Т-72Б3]]></data>
 
   <data name="en_panogroup45_title"><![CDATA[Group 45]]></data>
 
@@ -59,6 +60,15 @@
   <data name="en_pano258_title"><![CDATA[УРАЛ_ЗАД]]></data>
   <data name="en_spotpoint265_tooltip"><![CDATA[В ЦЕНТР]]></data>
 
+  <data name="en_panogroup274_title"><![CDATA[Group 274]]></data>
+
+  <data name="en_pano271_title"><![CDATA[Т-72Б3_БОК]]></data>
+  <data name="en_spotpoint279_tooltip"><![CDATA[В ЦЕНТР]]></data>
+  <data name="en_pano273_title"><![CDATA[Т-72Б3_ИНФ]]></data>
+  <data name="en_spotpoint278_tooltip"><![CDATA[В ЦЕНТР]]></data>
+  <data name="en_pano272_title"><![CDATA[Т-72Б3_ЗАД]]></data>
+  <data name="en_spotpoint280_tooltip"><![CDATA[В ЦЕНТР]]></data>
+
 
 
 
@@ -96,6 +106,11 @@
   <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
   <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
   <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
 
 
 
